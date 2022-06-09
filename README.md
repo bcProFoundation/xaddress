@@ -11,7 +11,7 @@ Compliant with the xaddress [specification](https://givelotus.org/docs/specs/lot
 ### Using NPM
 
 ```bsh
-$ npm install --save @abcpros/xaddress
+$ npm install --save @bcpros/xaddress
 ```
 
 ## Usage
